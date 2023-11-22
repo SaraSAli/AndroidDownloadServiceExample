@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LoginExample</string>
+    <string name="share_text_with">The shared text is here</string>
+    <string name="second_screen">Go to Second Screen</string>
+    <string name="service_screen">Go to Service Screen</string>
+    <string name="home_screen">Go to Home Screen</string>
+    <string name="start_service">Start Service</string>
+    <string name="stop_service">Stop Service</string>
+
+
+</resources>
